@@ -1,0 +1,11 @@
+{
+  "title": "A Gentle Introduction to HARK",
+  "description": "An introduction for first-time users of HARK - and maybe even Python.",
+  "creators": [{
+      "name": "Carroll, Christopher D"
+  }],
+  "publication_date": "2018-08-09", 
+  "version": "",
+  "section": "Tutorials",
+  "tags": "consumption"
+}
