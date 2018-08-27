@@ -1,4 +1,5 @@
 {
+  "file": "ConsIndShockModel.ipynb",
   "title": "ConsIndShockModel",
   "description": "Classes to solve canonical consumption-savings models with idiosyncratic shocks to income. All models here assume CRRA utility with geometric discounting, no bequest motive, and income shocks are fully transitory or fully permanent.",
   "creators": [{

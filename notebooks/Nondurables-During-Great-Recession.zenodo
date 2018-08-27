@@ -1,4 +1,5 @@
 {
+  "file": "Nondurables-During-Great-Recession.ipynb",
   "title": "Non-Durables During Great Recession",
   "description": "At the onset of the Great Recession, there was a large drop (6.32%, according to FRED) in consumer spending on non-durables. Some economists have proffered that this could be attributed to precautionary motives-- a perceived increase in household income uncertainty induces more saving (less consumption) to protect future consumption against bad income shocks. How large of an increase in the standard deviation of (log) permanent income shocks would be necessary to see an 6.32% drop in consumption in one quarter? What about transitory income shocks? How high would the perceived unemployment probability have to be?",
   "creators": [{
